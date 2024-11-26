@@ -55,7 +55,7 @@ Graphs for training and validation loss, accuracy, and MAE demonstrate effective
 We thank the authors of related works for their insights and the UTKFace dataset providers. Gratitude also extends to our mentors, colleagues, and supporters who made this research possible.
 
 ## Authors  
-- **Vinay Daram** ([LinkedIn](https://www.linkedin.com/in/daram-vinay)) 
+- **Vinay Daram** ([LinkedIn](https://www.linkedin.com/in/daramvinay)) 
 
 ## License  
 This project is licensed under the MIT License. See the `LICENSE` file for details.
