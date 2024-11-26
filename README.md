@@ -1,6 +1,4 @@
-Here is a draft for a `README.md` file for your GitHub project, based on the provided report:
 
----
 
 # Deep Learning Approach for Gender and Age Prediction Using CNN
 
@@ -34,7 +32,7 @@ Graphs for training and validation loss, accuracy, and MAE demonstrate effective
 ## Installation and Usage  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-repo/deep-learning-gender-age-cnn.git
+   git clone https://github.com/vinay2132/deep-learning-gender-age-cnn.git
    cd deep-learning-gender-age-cnn
    ```  
 2. **Install Dependencies**:  
@@ -57,9 +55,7 @@ Graphs for training and validation loss, accuracy, and MAE demonstrate effective
 We thank the authors of related works for their insights and the UTKFace dataset providers. Gratitude also extends to our mentors, colleagues, and supporters who made this research possible.
 
 ## Authors  
-- **Vinay Daram** ([LinkedIn](https://www.linkedin.com/in/daram-vinay))  
-- **Tejaswini Kanukunta**  
-- **Asish Inuganti**
+- **Vinay Daram** ([LinkedIn](https://www.linkedin.com/in/daram-vinay)) 
 
 ## License  
 This project is licensed under the MIT License. See the `LICENSE` file for details.
